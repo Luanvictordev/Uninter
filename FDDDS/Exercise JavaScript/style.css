@@ -1,0 +1,15 @@
+button {
+    background-color: rgba(29, 29, 29, 0.795);
+    color: white;
+}
+
+p {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.tudo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

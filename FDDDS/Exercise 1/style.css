@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.square {
+    padding: 5px;
+    margin: 20px;
+    position: absolute;
+}
+
+.lefttop {
+    background-color: aqua;
+    left: 0px;
+    top: 0px;
+}
+
+.leftbottom {
+    background-color: blueviolet;
+    left: 0px;
+    bottom: 0px;
+}
+
+.righttop {
+    background-color: brown;
+    right: 0px;
+    top: 0px;
+}
+
+.rightbottom {
+    background-color: darkgoldenrod;
+    right: 0px;
+    bottom: 0px;
+}
